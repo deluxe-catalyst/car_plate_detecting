@@ -1,0 +1,6 @@
+names:
+  0: license_plate
+nc: 1
+path: ./Car_plate_dataset # Путь к датасету
+train: train/images
+val: test/images
